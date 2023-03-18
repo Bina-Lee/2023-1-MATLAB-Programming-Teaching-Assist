@@ -8,6 +8,7 @@ Matlab On Lamp
 TA Session Link : https://www.youtube.com/watch?v=jVulyGexdSE&t=15s
 
 
+
 Week2
 
 Vector, Matrix and function
