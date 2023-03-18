@@ -9,6 +9,8 @@ Week1
 
 Week2
 
--Vector, Matrix and function
+-Vector and Matrix
+
+-plot and function
  
 -TA Session Link : https://www.youtube.com/watch?v=psH_OhESBi4
