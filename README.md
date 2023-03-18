@@ -3,12 +3,12 @@
 
 Week1
 
-  Matlab On Lamp
+-Matlab On Lamp
 
-  TA Session Link : https://www.youtube.com/watch?v=jVulyGexdSE&t=15s
+-TA Session Link : https://www.youtube.com/watch?v=jVulyGexdSE&t=15s
 
 Week2
 
-  Vector, Matrix and function
+-Vector, Matrix and function
  
-  TA Session Link : https://www.youtube.com/watch?v=psH_OhESBi4
+-TA Session Link : https://www.youtube.com/watch?v=psH_OhESBi4
